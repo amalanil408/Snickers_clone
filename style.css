@@ -399,3 +399,9 @@ footer .footer-div .see-all{
     color: #fff;
     border-radius: 30px;
 }
+footer .footer-div .soc{
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+}
